@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="83" viewBox="0 0 83 83">
+    <g fill="none" fill-rule="evenodd">
+        <g fill-rule="nonzero">
+            <g>
+                <g>
+                    <g>
+                        <path fill="#FFD15C" d="M50 68L34 68 36.727 62.323 39.091 57 44.909 57 47.273 62.323z" transform="translate(-290 -1016) translate(184 971) translate(0 45) translate(106)"/>
+                        <path fill="#FFCA3B" d="M58.729 68h-34.3C22.544 68 21 69.588 21 71.53V83h40.987V71.53c.171-1.942-1.372-3.53-3.258-3.53z" transform="translate(-290 -1016) translate(184 971) translate(0 45) translate(106)"/>
+                        <path fill="#F1543F" d="M46 63.046c-1.38.652-2.759 1.303-4.138 1.791L41 65l-.862-.326c-1.38-.488-2.759-1.14-4.138-1.79L38.241 58h5.345L46 63.046z" transform="translate(-290 -1016) translate(184 971) translate(0 45) translate(106)"/>
+                        <g fill="#F8B64C">
+                            <path d="M0 9.47v7.058C0 33.745 10.711 48.552 25.742 54.75c4.837 2.066 10.193 3.1 15.721 3.1 5.528 0 10.884-1.034 15.721-3.1 15.03-6.198 25.742-21.005 25.742-38.221v-7.06H0zm76.015 7.058c0 8.265-2.937 15.84-7.947 21.866-6.392 7.575-15.894 12.569-26.605 12.569S21.25 46.142 14.858 38.394C10.02 32.54 6.91 24.793 6.91 16.528v-.172h68.931v.172h.173zM68.414 0H14.512c-1.21 0-2.073 1.033-2.073 2.066 0 1.205.863 2.238 2.073 2.238h53.902c1.21 0 2.073-1.033 2.073-2.066 0-1.205-.864-2.238-2.073-2.238z" transform="translate(-290 -1016) translate(184 971) translate(0 45) translate(106)"/>
+                        </g>
+                        <path fill="#FFD15C" d="M68 4v18.699C68 40.012 57.27 55.767 41 62c-16.27-6.406-27-21.988-27-39.475V4h54z" transform="translate(-290 -1016) translate(184 971) translate(0 45) translate(106)"/>
+                        <path fill="#FFF" d="M42 12L45.579 23.048 57 23.048 47.795 29.952 51.204 41 42 34.095 32.796 41 36.205 29.952 27 23.048 38.421 23.048z" transform="translate(-290 -1016) translate(184 971) translate(0 45) translate(106)"/>
+                        <path fill="#FFC952" d="M15 4H68V6H15z" transform="translate(-290 -1016) translate(184 971) translate(0 45) translate(106)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

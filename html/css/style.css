@@ -1,0 +1,333 @@
+body{
+  margin:0;
+
+}
+h1{
+  margin:0;
+}
+.container{
+background-color: rgba(22, 22, 23, .8);
+font-family: Arial, Helvetica, sans-serif;
+font-size: 12px;
+padding: 10px;
+display:flex;
+
+justify-content: center;
+justify-content: space-between;
+
+}
+div.container{
+  position: sticky;
+  top: 0;
+}
+.store,.mac,.ipad,.iPhone,.watch,.Airpods,.Tv,.Accessories,.Support{
+  width:150px;
+  color: aliceblue;
+  cursor: pointer;
+  
+  
+
+}
+.textbottom{
+  /* margin-bottom: 50px; */
+  font-size: 14px;
+  font-style: normal;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f7f7f7;
+  color: rgb(29, 29,31);
+  padding-top: 3px;
+  text-align: center;
+  padding-bottom: 3px;
+}
+.shopnow{
+  cursor: pointer;
+ color: rgb(29, 26, 243);
+}
+.shopnow:hover{
+  text-decoration: underline;
+}
+.firstimage{
+
+  background-image: url("../images/first.jpg");
+  width:100%;
+  height: 550px;
+  position: relative;
+  text-align: center;
+  color: white;
+  background-position: center;
+  
+}
+.centered {
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.iphonepro{
+  font-size: 57px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing:0cap;
+  padding-top: 30px;
+}
+.probeyond{
+  font-size: 27px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.learnmore{
+  cursor: pointer;
+ color:  rgb(41,151,255);
+ font-size: 19px;
+ font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.learnmore:hover{
+  text-decoration: underline;
+}
+.buyy{
+  cursor: pointer;
+ color:  rgb(41,151,255);
+ font-size: 19px;
+ font-family: Arial, Helvetica, sans-serif;
+ 
+}
+.buyy:hover{
+  text-decoration: underline;
+}
+
+
+ .secondimage{
+
+  background-image: url("../images/second.jpg");
+  width:100%;
+  height: 650px;
+  position: relative;
+  text-align: center;
+  color: white;
+  background-position: center;
+  
+}
+.iphone{ position: absolute;
+top: 20%;
+left: 50%;
+transform: translate(-50%, -50%);
+padding: top 10%;
+
+}
+.iphone14{
+font-size: 57px;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing:0cap;
+  text-align: center;
+  color: black;
+  padding-top: 20%;
+  
+}
+.two{
+color: black;
+font-size: 30px;
+font-family: Arial, Helvetica, sans-serif;
+}
+.now{
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+
+.thirdimage{
+
+  background-image: url("../images/third.jpg");
+  width:100%;
+  height: 620px;
+  position: relative;
+  text-align: center;
+  color: white;
+  background-position: center;
+  margin-top: 10%;
+  
+}
+.Watch{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+.Watch1{
+  color: rgb(243, 235, 235);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+}
+.gallery{
+  margin: 0;
+  padding: 0;
+  background:rgb(228, 228, 228);
+ display: flex;
+ justify-content: space-around;
+ flex-wrap: wrap;
+ margin: 10px;
+
+}
+.gallery img{
+   /* flex-wrap: wrap;
+  width: 100px;
+  height: 370px;
+   */
+}
+.gallery .box{
+  text-align: center;
+  height: 80vh;
+  width: 48%;
+  margin: 10px;
+  padding-top: 20px;
+  background-size: cover;
+  color: #f7f7f7;
+  }
+  .box{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding-top: 10px;
+    text-decoration: none;
+  background-position:center;
+  }
+  .box:hover{
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+
+  .imgcard{
+   width: auto;
+   height: 30px;
+  
+   margin-top: 40px;
+   
+  }
+ #box1{
+   background-image: url(../images/img1.jpg);
+   color: black;
+  
+   
+   
+ }
+ #box2{
+   background-image: url(../images/img2.jpg);
+ 
+ }
+ #box3{
+   background-image: url(../images/img3.jpg);
+ }
+ #box4{
+   background-image: url(../images/img4.jpg);
+ }
+ #box5{
+   background-image: url(../images/img5.jpg);
+   color: black;
+
+   margin-bottom:20px;
+   text-align: center;
+ }
+ #box6{
+   background-image: url(../images/img6.jpg);
+   color: black;
+  
+
+ }
+ #box7{
+  background-image: url(../images/new.jpg);
+  background-color:grey;
+  width: 1100px;
+   color: rgb(255, 255, 255);
+   background-position:center;
+   display: flex;
+ }
+ .text{
+  font-weight: lighter;
+  font-family:'Times New Roman', Times, serif;
+ }
+ .ted{
+  font-size: 65px;
+  font-weight: bolder;
+  font-family:Arial, Helvetica, sans-serif;
+  font-style: italic;
+  align-items: right;
+ }
+  .footer{
+    color: rgb(83, 81, 81);
+font-size: 12px;
+font-family: Arial, Helvetica, sans-serif;
+width: 100%;
+height: 390px;
+background-color: rgb(252, 252, 244);
+
+  } 
+  #box5 h3{
+    line-height: 0.4;
+    font-weight: 300;
+    font-size: 18px;
+  }
+  .imgcard1{
+    width: 130px;
+    height: 30px;
+    margin-top: 40PX;
+  }
+  .footer1{
+    background-color :rgb(31, 30, 30) ;
+    flex-basis: 25%;
+    flex-grow: 1;
+    margin-bottom: 20px;
+  }
+  .f1{
+    background-color: rgb(252, 252, 244);
+    height: 500px;
+    margin-top:9px;
+    color: rgb(83, 81, 81);
+    font-size:13px ;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+   
+  }
+  .f2{
+    padding-top: 5%;
+    padding-left: 9%;
+    display: flex;
+    justify-content:left;
+  }
+  .f3{
+    padding: 15px;
+    padding-left: 45px;
+    font-size: 17px;
+  }
+  .f3:hover{
+    cursor: pointer;
+  }
+  .f4{
+    width:35%;
+    line-height:45px;
+  }
+  .f4:hover{
+    cursor: pointer;
+  }
+  
+.footer2{
+  background-color: white;
+  width: 100%;
+  height:100px;
+  
+}
+.f2{
+  display: flex;
+  justify-content: left;
+  color: rgb(82, 78, 78);
+  font-size: 12px;
+  padding-top: 20px;
+  
+}
+.f2:hover{
+  cursor: pointer;
+ 
+
+}
+ 
